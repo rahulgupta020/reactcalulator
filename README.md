@@ -4,12 +4,12 @@ Create a simple yet interactive calculator application using React. This calcula
 
 Project Requirement:-
 You can create a simple calculator in React with the following features:
-Two input boxes for users to enter numbers.
-Buttons for performing addition, subtraction, multiplication and division operations.
-Dynamic icons that change based on the selected operation like + - * /
-A section to display the result of the operation. If only user can click on any operation. by,default it is not display.
-A counter to keep track of the total number of operations performed. If user click in reset button. but then total operation not be reset.
-A reset button to clear the input boxes and reset the operation to addition.
+1) Two input boxes for users to enter numbers.
+2) Buttons for performing addition, subtraction, multiplication and division operations.
+3) Dynamic icons that change based on the selected operation like + - * /
+4) A section to display the result of the operation. If only user can click on any operation. by,default it is not display.
+5) A counter to keep track of the total number of operations performed. If user click in reset button. but then total operation not be reset.
+6) A reset button to clear the input boxes and reset the operation to addition.
 
 If you want to run this project. Simple clone it. and run Command "npm install". after it it will install node_modules folder. now can you can run this project using "npm start".
 
